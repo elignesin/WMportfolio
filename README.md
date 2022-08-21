@@ -19,5 +19,6 @@ This was a project I did for DATA 440- Data Science for the Social Sciences and 
 This was a project I did for DATA 340- Social Network Analysis, in the Spring 2021 semester. For the project, I looked at FBS schedule and standings data to explore which teams were "most central" to the FBS in the years of the College Football Playoff. The folder includes:
 - A jupyter notebook for Data Cleaning, Network Analysis, and Visualization
 - Two visualization GIFs year-to-year: One by team, the other by conference
+- A folder for the Schedule data and a folder for the Standings data (pre-cleaning)
 - A slidedeck for presentation
 - A poster (also attached to the end of the slide deck), which was the main deliverable for the project
