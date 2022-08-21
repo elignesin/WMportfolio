@@ -12,7 +12,7 @@ This was a small research project I did with James Monroe Scholar funding from t
 ### RBG Tweets Project
 This was a project I did for DATA 440- Data Science for the Social Sciences and Humanities, in the Fall 2020 semester. For the project, I looked at sentiment analysis of tweets from immediately before and after the death of Supreme Court Justice Ruth Bader Ginsburg, subsetted on religious, and gender keywords, to explore the sentiment around her death and how it related to her identity. The folder includes:
 - A Jupyter notebook for all  data collection and cleaning and sentiment analysis
-- A CSV file containing every tweet ID hydrated in the project (this is too big for Github but is accessible at )
+- A CSV file containing every tweet ID hydrated in the project (this is too big for Github but is accessible at https://drive.google.com/file/d/1aYAaslvd8R_ZB2PRZ-ZOU-pS-QfkfdFA/view?usp=sharing)
 - The final report for the project
 
 ### College Football Networks
