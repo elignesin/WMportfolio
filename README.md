@@ -1,5 +1,5 @@
 # William & Mary Portfolio
-This is a portfolio of some projects and work I did during my undergraduate degree at William &amp; Mary.
+This is a portfolio of some projects from during my undergraduate degree at William &amp; Mary.
 
 ### Summer 2020 Monroe Research  
 This was a small research project I did with James Monroe Scholar funding from the William & Mary Charles Center. The project looked at players drafted in Major League Baseball's amateur drafts out of high school and attempted to predict if they would sign a contract. The folder includes:
