@@ -10,13 +10,13 @@ This was a small research project I did with James Monroe Scholar funding from t
 - The final report submitted for the project  
 
 ### RBG Tweets Project
-This was a project I did for DATA 440- Data Science for the Social Sciences and Humanities, in the Fall 2020 semester. For the project, I looked at sentiment analysis of tweets from immediately before and after the death of Supreme Court Justice Ruth Bader Ginsburg, subsetted on religious, and gender keywords, to explore the sentiment around her death and how it related to her identity. The folder includes:
+This was a project I did for DATA 440- Data Science for the Social Sciences and Humanities in the Fall 2020 semester. For the project, I looked at sentiment analysis of tweets from immediately before and after the death of Supreme Court Justice Ruth Bader Ginsburg, subsetted on religious, and gender keywords, to explore the sentiment around her death and how it related to her identity. The folder includes:
 - A Jupyter notebook for all  data collection and cleaning and sentiment analysis
 - A CSV file containing every tweet ID hydrated in the project (this is too big for Github but is accessible at https://drive.google.com/file/d/1aYAaslvd8R_ZB2PRZ-ZOU-pS-QfkfdFA/view?usp=sharing)
 - The final report for the project
 
 ### College Football Networks
-This was a project I did for DATA 340- Social Network Analysis, in the Spring 2022 semester. For the project, I looked at FBS schedule and standings data to explore which teams were "most central" to the FBS in the years of the College Football Playoff. The folder includes:
+This was a project I did for DATA 340- Social Network Analysis in the Spring 2022 semester. For the project, I looked at FBS schedule and standings data to explore which teams were "most central" to the FBS in the years of the College Football Playoff. The folder includes:
 - A jupyter notebook for Data Cleaning, Network Analysis, and Visualization
 - Two visualization GIFs year-to-year: One by team, the other by conference
 - A folder for the Schedule data and a folder for the Standings data (pre-cleaning)
